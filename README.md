@@ -40,7 +40,7 @@ Este es un ejercicio de clases...
 
 # Deploy 
 
-
+https://wilfredopinom.github.io/Piano/
 
 
 ## Etapas
@@ -66,9 +66,9 @@ Este es un ejercicio de clases...
 
 
   ## git
-  git add .
-  git commit -m "xxx"
-  git push origin master
+  1. git add .
+  2. git commit -m "xxx"
+  3. ºgit push origin master
   
 
 
