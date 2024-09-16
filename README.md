@@ -68,7 +68,9 @@ https://wilfredopinom.github.io/Piano/
   ## git
   1. git add .
   2. git commit -m "xxx"
-  3. ºgit push origin master
+  3. git push origin master
   
-
+  
+  ## Imagen deploy
+![deploy](https://github.com/wilfredopinom/Piano/blob/376c5c116ca6079dcf3e8a87b12bf72f489baf05/deploy.png)
 
